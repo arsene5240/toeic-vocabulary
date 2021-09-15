@@ -54,14 +54,12 @@
 ## premise **
 >***The research project is based on the <font color="#dd0000">premise</font> stated earlier.***
 
-<table><tr><td bgcolor=#C0FF3E> premises 代表廠區</td></tr></table>
+<table><tr><td bgcolor=#C0FF3E> premises 廠區</td></tr></table>
 
 ## obligation ***
-
 >***Everybody has the <font color="#dd0000">obligation</font> to stop the crime.***
 
 ## prohibit ***
-
 >***Tobacco advertisements are <font color="#dd0000">prohibited</font> on TV.***
 
 ## respective ***
@@ -77,6 +75,24 @@
 
 ## adjacent *
 >***His house is <font color="#dd0000">adjacent</font> to mine.***
+
+## convention/meeting/conference ***
+>***Where are they holding their party <font color="#dd0000">convention</font>?***
+
+
+## expense *
+>***I don't think we can afford the <font color="#dd0000">expense</font>.***
+
+## brochure *
+>***Their job was to hand out <font color="#dd0000">brochures</font> at the trade show.***
+* <font color="#000066">advertising brochure</font> 廣告冊子
+
+## out of town ***
+* <font color="#000066">out of town visitor/businessman</font> 外地的訪客/商人
+
+
+
+
 # <font color="#006666">TOEIC Phrase</font>
 ## hold liable/accountable/responsible for *
 >The public <font color="#dd0000">holds</font> the President <font color="#dd0000">accountable for</font> success or failure of the entire administration.
@@ -89,7 +105,7 @@
 
 ## bring up **
 >She was <font color="#dd0000">brought up</font> by her grandmother.
-> 
+>
 >The manager <font color="#dd0000">brings up</font> the issue of missed deadlines.
 
 ## be entitled to ***
@@ -98,5 +114,4 @@
 ## prior to ***
 >I called on her <font color="#dd0000">prior to</font> my departure.
 
-# TOEIC Grammer
-## recommend 為建議命令類動詞，後面所接的名詞子句的動詞一率為原動詞
+
