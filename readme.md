@@ -78,7 +78,10 @@
 
 ## convention/meeting/conference ***
 >***Where are they holding their party <font color="#dd0000">convention</font>?***
+>* <font color="#000066">press conference</font> 記者會
 
+## convention ***
+>In many countries it is a <font color="#dd0000">convention</font> to wear black at funerals.
 
 ## expense *
 >***I don't think we can afford the <font color="#dd0000">expense</font>.***
@@ -87,10 +90,17 @@
 >***Their job was to hand out <font color="#dd0000">brochures</font> at the trade show.***
 * <font color="#000066">advertising brochure</font> 廣告冊子
 
+## custom *
+>***As soon as I got through <font color="#dd0000">customs</font> I jumped into a taxi. 
+
+## furnish ***
+>The room was <font color="#dd0000">furnished</font> in red plush.
+
 ## out of town ***
 * <font color="#000066">out of town visitor/businessman</font> 外地的訪客/商人
 
-
+## production capacity *** 
+* <font color="#000066">out of town visitor/businessman</font> 外地的訪客/商人
 
 
 # <font color="#006666">TOEIC Phrase</font>
@@ -114,4 +124,18 @@
 ## prior to ***
 >I called on her <font color="#dd0000">prior to</font> my departure.
 
+## bond with sb ***
+>Over the past year, I've developed a strong <font color="#dd0000">bond with</font> my co-workers.
 
+
+## fill in for somebody 代替某人的位子
+## fill out 填寫
+## lean (sth) against/on sth 斜靠著，倚著
+## potted plant 盆栽
+## stir 攪拌
+## hard copy/soft copy 紙本文件／電子文件
+## request form 申請書
+## hand out
+## hang out
+## tenants
+## come up with 想出
